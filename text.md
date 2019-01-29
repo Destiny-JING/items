@@ -17,3 +17,4 @@
 ### git diff head/比较工作目录和本地仓库的差别
 ### git diff --cached/比较暂存区和本地仓库的差别
 ### git rm--cached “file”/从暂存区内移除文件
+### git log/查看提交
