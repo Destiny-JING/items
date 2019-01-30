@@ -18,3 +18,8 @@
 ### -git diff --cached 比较暂存区和本地仓库的差别
 ### -git rm--cached “file” 从暂存区内移除文件
 ### -git log 查看提交
+### -git branch "file" 新建分支
+### -git checkout "file" 切换分支
+### -git checkout -b "file" 建立分支并切换到当前分支
+### -git merge "file" 合并分支（合并到哪个分支就先切换的对应分支）
+### -cat "file" 查询当前文件内容
